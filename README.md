@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naitik Yadav 👋</h1>
+<h1 align="center">Naitik Yadav</h1>
 
 <p align="center">
   <b>B.Tech Computer Science & Engineering @ SRM University AP</b>
@@ -17,13 +17,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a **MERN Stack Developer** and **Cybersecurity Enthusiast** with a focus on building high-performance, scalable web applications. Currently a second-year student maintaining an **8.35 CGPA**. I enjoy solving complex problems through competitive programming and systems engineering.
+I am a MERN Stack Developer and Cybersecurity Enthusiast focused on building high-performance, scalable web applications. Currently a second-year B.Tech student at SRM University AP maintaining an 8.35 CGPA. I enjoy solving complex problems through competitive programming and systems engineering.
 
-- 🏆 **Winner**: VibeCraft Hackathon (Decentralized solution on QUAI Network).
-- 📜 **Certified**: MongoDB Associate Developer (Node.js) & Deloitte Cybersecurity Virtual Experience.
-- 🛠️ **Current Focus**: Real-time systems and multi-threaded architectures.
+*   Winner: VibeCraft Hackathon - Built a decentralized solution on the QUAI Network.
+*   Certified: MongoDB Associate Developer (Node.js).
+*   Certified: Deloitte Australia Cyber Security Virtual Experience.
+*   Current Focus: Real-time systems and multi-threaded architectures.
 
 ---
 
@@ -41,19 +42,23 @@ I am a **MERN Stack Developer** and **Cybersecurity Enthusiast** with a focus on
 
 ### 📂 Featured Projects
 
-#### 💻 [SkillSphere](YOUR_REPO_LINK)
-**Real-Time Coding Platform (MERN, Socket.io)**
-- Engineered a 1v1 coding challenge system with **sub-100ms synchronization**.
-- Integrated **Monaco Editor** with Piston API, reducing code processing time by 60%.
+#### 💻 [SkillSphere: Real-Time Coding Platform](YOUR_REPO_LINK)
+*React, Node.js, MongoDB*
+*   Engineered a real-time 1v1 coding challenge system using Socket.io, enabling seamless bidirectional communication with sub-100ms synchronization latency between clients.
+*   Integrated Monaco Editor with Piston API to support live multi-language code execution, improving responsiveness and reducing processing time by 60%.
+*   Designed and implemented a scalable MERN-based backend architecture to manage 80+ coding challenges, complemented by a modern glassmorphic UI using Tailwind CSS.
 
-#### ⚡ [Mini-Redis](YOUR_REPO_LINK)
-**Concurrent Key-Value Store (C++, POSIX Threads)**
-- Built a thread-safe, multi-client store using **custom thread pools** and POSIX sockets.
-- Implemented **LRU caching** and Reader-Writer locks to optimize memory and prevent data races.
+#### ⚡ [Mini-Redis: Concurrent Key-Value Store](YOUR_REPO_LINK)
+*C++, POSIX Threads, CMake*
+*   Built a thread-safe, multi-client key-value store using POSIX sockets and a custom thread pool to efficiently handle concurrent client requests.
+*   Implemented an LRU caching mechanism and Reader-Writer Locks to optimize memory usage and ensure safe concurrent access without data races.
+*   Developed an Append-Only File (AOF) persistence mechanism for crash recovery, along with a custom Redis-like command parser for extensible operations.
 
-#### 🎬 [IMDb Clone](YOUR_REPO_LINK)
-**Movie Discovery Site (JS, YouTube API)**
-- Developed a responsive platform featuring real-time search and category-based filtering.
+#### 🎬 [IMDb Clone: Movie Discovery Site](YOUR_REPO_LINK)
+*HTML, CSS, JavaScript*
+*   Developed a responsive movie discovery platform using semantic HTML5, CSS, and vanilla JavaScript to dynamically render content and enhance accessibility.
+*   Implemented real-time search functionality, category-based filtering, and interactive trailer modals with YouTube API integration for richer user interaction.
+*   Optimized frontend performance and ensured cross-browser compatibility, resulting in a smooth and consistent user experience across devices.
 
 ---
 
