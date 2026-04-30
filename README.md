@@ -42,7 +42,7 @@ I am a MERN Stack Developer and Cybersecurity Enthusiast focused on building hig
 
 ### 📂 Featured Projects
 
-#### 💻 [SkillSphere: Real-Time Coding Platform](YOUR_REPO_LINK)
+#### 💻 [SkillSphere: Real-Time Coding Platform](https://github.com/naitikcodes15/Skill-Sphere-)
 *React, Node.js, MongoDB*
 *   Engineered a real-time 1v1 coding challenge system using Socket.io, enabling seamless bidirectional communication with sub-100ms synchronization latency between clients.
 *   Integrated Monaco Editor with Piston API to support live multi-language code execution, improving responsiveness and reducing processing time by 60%.
@@ -54,7 +54,7 @@ I am a MERN Stack Developer and Cybersecurity Enthusiast focused on building hig
 *   Implemented an LRU caching mechanism and Reader-Writer Locks to optimize memory usage and ensure safe concurrent access without data races.
 *   Developed an Append-Only File (AOF) persistence mechanism for crash recovery, along with a custom Redis-like command parser for extensible operations.
 
-#### 🎬 [IMDb Clone: Movie Discovery Site](YOUR_REPO_LINK)
+#### 🎬 [IMDb Clone: Movie Discovery Site](https://github.com/naitikcodes15/IMDb-Website-Clone)
 *HTML, CSS, JavaScript*
 *   Developed a responsive movie discovery platform using semantic HTML5, CSS, and vanilla JavaScript to dynamically render content and enhance accessibility.
 *   Implemented real-time search functionality, category-based filtering, and interactive trailer modals with YouTube API integration for richer user interaction.
