@@ -48,7 +48,7 @@ I am a MERN Stack Developer and Cybersecurity Enthusiast focused on building hig
 *   Integrated Monaco Editor with Piston API to support live multi-language code execution, improving responsiveness and reducing processing time by 60%.
 *   Designed and implemented a scalable MERN-based backend architecture to manage 80+ coding challenges, complemented by a modern glassmorphic UI using Tailwind CSS.
 
-#### ⚡ [Mini-Redis: Concurrent Key-Value Store](YOUR_REPO_LINK)
+#### ⚡ [Mini-Redis: Concurrent Key-Value Store](https://github.com/naitikcodes15/mini-redis)
 *C++, POSIX Threads, CMake*
 *   Built a thread-safe, multi-client key-value store using POSIX sockets and a custom thread pool to efficiently handle concurrent client requests.
 *   Implemented an LRU caching mechanism and Reader-Writer Locks to optimize memory usage and ensure safe concurrent access without data races.
