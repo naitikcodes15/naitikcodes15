@@ -1,81 +1,81 @@
-<h1 align="center">Naitik Yadav</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=>_Naitik+Yadav;>_System_Initialized;>_MERN_Stack_Dev" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>B.Tech Computer Science & Engineering @ SRM University AP</b>
+  <b>B.Tech Computer Science & Engineering @ SRM University AP</b><br>
+  <img src="https://komarev.com/ghpvc/?username=naitikcodes15&label=SYS.VIEWS&color=ff00ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naitikyadav15/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/naitik15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:naitik.yadav641@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naitikcodes15&label=Profile%20Views&color=555555&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/naitikyadav15/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/naitik15"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FF00FF" alt="LeetCode" /></a>
+  <a href="mailto:naitik.yadav641@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" /></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF00FF" alt="Portfolio" /></a>
 </p>
 
 ---
 
-### About Me
+### ABOUT_ME 
 
-I am a MERN Stack Developer and Cybersecurity Enthusiast focused on building high-performance, scalable web applications. Currently a second-year B.Tech student at SRM University AP maintaining an 8.35 CGPA. I enjoy solving complex problems through competitive programming and systems engineering.
-
-*   Winner: VibeCraft Hackathon - Built a decentralized solution on the QUAI Network.
-*   Certified: MongoDB Associate Developer (Node.js).
-*   Certified: Deloitte Australia Cyber Security Virtual Experience.
-*   Current Focus: Real-time systems and multi-threaded architectures.
+```zsh
+naitik@zorin-os:~$ cat about.txt
+> MERN Stack Developer | Cybersecurity Enthusiast
+> Education: 2nd Year B.Tech CSE @ SRM University AP (CGPA: 8.35)
+> Focus: Real-time systems, multi-threaded architectures, C++
+> Achievements: Winner VibeCraft Hackathon (QUAI Network)
+> Certifications: MongoDB Associate Developer, Deloitte Cyber Security
+```
 
 ---
 
-### 🛠️ Tech Stack
+### TECH_STACK
 
-| Category | Tools & Technologies |
+| Module | Technologies |
 | :--- | :--- |
-| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **DevOps/Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **[LANG]** | ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB) ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=00ADD8) ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4479A1) |
+| **[FRONT]** | ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) |
+| **[BACK]** | ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=FFF) ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=009688) ![Rails](https://img.shields.io/badge/Ruby_on_Rails-000?style=for-the-badge&logo=rubyonrails&logoColor=CC0000) |
+| **[DATA]** | ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28) |
+| **[CORE]** | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED) ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Regex](https://img.shields.io/badge/Regex-000?style=for-the-badge&logo=regex&logoColor=FFF) |
 
 ---
 
-### 📂 Featured Projects
+## ✦ Featured Projects
 
-#### 💻 [SkillSphere: Real-Time Coding Platform](https://github.com/naitikcodes15/Skill-Sphere-)
-*React, Node.js, MongoDB*
-*   Engineered a real-time 1v1 coding challenge system using Socket.io, enabling seamless bidirectional communication with sub-100ms synchronization latency between clients.
-*   Integrated Monaco Editor with Piston API to support live multi-language code execution, improving responsiveness and reducing processing time by 60%.
-*   Designed and implemented a scalable MERN-based backend architecture to manage 80+ coding challenges, complemented by a modern glassmorphic UI using Tailwind CSS.
+### [SkillSphere: Real-Time Coding Platform](https://github.com/naitikcodes15/Skill-Sphere-)
+> **React, Node.js, MongoDB, Socket.io, Tailwind CSS**
+* Engineered a real-time 1v1 coding challenge system with sub-100ms synchronization latency.
+* Integrated Monaco Editor with Piston API to support live multi-language code execution.
+* Designed scalable backend architecture for 80+ challenges with a modern glassmorphic UI.
 
-#### ⚡ [Mini-Redis: Concurrent Key-Value Store](https://github.com/naitikcodes15/mini-redis)
-*C++, POSIX Threads, CMake*
-*   Built a thread-safe, multi-client key-value store using POSIX sockets and a custom thread pool to efficiently handle concurrent client requests.
-*   Implemented an LRU caching mechanism and Reader-Writer Locks to optimize memory usage and ensure safe concurrent access without data races.
-*   Developed an Append-Only File (AOF) persistence mechanism for crash recovery, along with a custom Redis-like command parser for extensible operations.
+### [Mini-Redis: Concurrent Key-Value Store](https://github.com/naitikcodes15/mini-redis)
+> **C++, POSIX Threads, CMake**
+* Built a thread-safe, multi-client key-value store using POSIX sockets and a custom thread pool.
+* Implemented LRU caching and Reader-Writer Locks to ensure safe access without data races.
+* Developed AOF persistence for crash recovery and a custom Redis-like command parser.
 
-#### 🎬 [IMDb Clone: Movie Discovery Site](https://github.com/naitikcodes15/IMDb-Website-Clone)
-*HTML, CSS, JavaScript*
-*   Developed a responsive movie discovery platform using semantic HTML5, CSS, and vanilla JavaScript to dynamically render content and enhance accessibility.
-*   Implemented real-time search functionality, category-based filtering, and interactive trailer modals with YouTube API integration for richer user interaction.
-*   Optimized frontend performance and ensured cross-browser compatibility, resulting in a smooth and consistent user experience across devices.
+### [IMDb Clone: Movie Discovery Site](https://github.com/naitikcodes15/IMDb-Website-Clone)
+> **HTML, CSS, JavaScript, YouTube API**
+* Developed a responsive movie discovery platform with dynamic content rendering.
+* Implemented real-time search, category filtering, and interactive trailer modals.
+* Optimized frontend performance ensuring seamless cross-browser compatibility.
 
 ---
 
-### 📊 GitHub Stats
+## ✦ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitikcodes15&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Naitik's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitikcodes15&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/40c463/naitikcodes15" alt="Naitik's Github Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikcodes15&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naitikcodes15&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitikcodes15&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>Eat. Code. Sleep. Repeat.</i>
 </p>
