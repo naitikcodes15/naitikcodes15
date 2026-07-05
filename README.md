@@ -4,6 +4,7 @@
 
 <p align="center">
   <b>B.Tech Computer Science & Engineering @ SRM University AP</b><br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=naitikcodes15&label=SYS.VIEWS&color=ff00ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -63,18 +64,9 @@ naitik@zorin-os:~$ cat about.txt
 
 ---
 
-## ✦ GitHub Analytics
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/naitikcodes15" alt="Naitik's Github Contributions" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitikcodes15&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitikcodes15&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
 
 <p align="center">
   <i>Eat. Code. Sleep. Repeat.</i>
