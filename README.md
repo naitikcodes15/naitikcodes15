@@ -21,7 +21,7 @@
 ```zsh
 naitik@zorin-os:~$ cat about.txt
 > MERN Stack Developer | Cybersecurity Enthusiast
-> Education: 2nd Year B.Tech CSE @ SRM University AP (CGPA: 8.35)
+> Education: 3rd Year B.Tech CSE @ SRM University AP [CGPA: 8.40]
 > Focus: Real-time systems, multi-threaded architectures, C++
 > Achievements: Winner VibeCraft Hackathon (QUAI Network)
 > Certifications: MongoDB Associate Developer, Deloitte Cyber Security
