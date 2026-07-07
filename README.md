@@ -20,7 +20,7 @@
 ### ABOUT_ME 
 
 ```zsh
-naitik@zorin-os:~$ cat about.txt
+naitik@zorin-os:~$ cat about.txt 
 > MERN Stack Developer | Cybersecurity Enthusiast
 > Education: 3rd Year B.Tech CSE @ SRM University AP [CGPA: 8.40]
 > Focus: Real-time systems, multi-threaded architectures, C++
